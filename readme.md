@@ -1,13 +1,19 @@
-Edit Distance (v 1.0)
+Edit Distance (v 1.0) 
 ==========================
 A Java program that solves the edit distance problem for two strings with input on two lines, one after the other. The program prints out a series of edit commands that will convert the first string into the second at minimum cost, and reports the total cost of such conversion.
+
+Credits
+-----
+Assignment by Dr. Staley @ Cal Poly University
 
 Usage
 -----
 Compile
+
 	javac EditDistance.java
 
 Run
+
 	java EditDistance
 
 Costs and operations:
